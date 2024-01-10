@@ -1,0 +1,62 @@
+html{
+  background-color: wheat;
+  margin: 10px 25px;
+  padding: 25px 15px;
+}
+body{
+  background-color: ghostwhite;
+  margin: 10px 15px;
+  padding: 35px 15px;
+}
+#subtitle{
+  text-align: center;
+}
+
+
+img {
+    display: block;
+  max-width: 100%;
+  height: auto;
+  margin:  0 auto;
+  padding: 10px 5px;
+  background-color: aliceblue;
+  
+  }
+  #img-div{
+    background-color: rgb(197, 241, 241);
+    margin: 2px 3px;
+    padding: 5px 6px;
+  }
+  
+  
+  figcaption{
+    display: block;
+    margin: 1em;
+  
+  }
+  
+  h1 {
+    text-align: center;
+    margin-top: 40px;
+    padding: 2px 5px 0 4px;
+    
+  }
+  
+ 
+  #tribute-info{
+    text-align: center;
+  }
+  div{
+  border-bottom: 2px solid black;
+  }
+  li::first-letter{
+    font-weight: bold;
+  }
+
+  footer{
+    font-size: 20px ;
+  }
+  
+
+  
+  
